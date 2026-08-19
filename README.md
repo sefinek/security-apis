@@ -87,6 +87,7 @@ API | Description | Auth | HTTPS | Link | Free / Commercial|
 | vulners | vulners Vuln Database | `apiKey` | Yes | [Link!](https://docs.vulners.com/docs/api/) |?|
 | whoisxmlapi.com | Whois APIs| `apiKey` | Yes | [Link!](https://whoisapi.whoisxmlapi.com/docs) |Commercial|
 | Zoomeye | Search Engine for internet connected devices | `apiKey` | Yes | [Link!](https://www.zoomeye.ai/doc) |Both|
+| SniffCat | IP abuse lookup, reporting and threat intelligence | `apiKey` | Yes | [Link!](https://sniffcat.com/documentation/api) | Free |
 
 ## Tools
 
